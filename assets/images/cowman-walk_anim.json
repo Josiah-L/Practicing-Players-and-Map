@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "cowman-idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "cowman-walk",
+                    "frame": "cowman-walk1"
+                },
+                {
+                    "key": "cowman-walk",
+                    "frame": "cowman-walk1"
+                },
+                {
+                    "key": "cowman-walk",
+                    "frame": "cowman-walk1"
+                },
+                {
+                    "key": "cowman-walk",
+                    "frame": "cowman-walk1"
+                }
+            ]
+        },
+        {
+            "key": "cowman-walking",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "cowman-walk",
+                    "frame": "cowman-walk2"
+                },
+                {
+                    "key": "cowman-walk",
+                    "frame": "cowman-walk3"
+                },
+                {
+                    "key": "cowman-walk",
+                    "frame": "cowman-walk4"
+                },
+                {
+                    "key": "cowman-walk",
+                    "frame": "cowman-walk5"
+                }
+            ]
+        }
+    ]
+}
